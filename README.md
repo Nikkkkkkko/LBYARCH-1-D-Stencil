@@ -3,9 +3,9 @@
 ### In Debug Mode
 | Vector Size (n)  | In C Kernel  | In ASM Kernel  |
 |------------------|--------------|----------------|
-|       2^15       |0.00086666666 |----------------|
-|       2^       |||
-|       2^       |||
+|       2^10       |0.000033333336|0.00003333333   |
+|       2^20       |0.0163        |0.00163         |
+|       2^24       |4.04256666667 |0.34826666666   |
 ### In Release Mode 
 #### Release Mode of the project ran into issues; Result not available.
 ## Program Output
