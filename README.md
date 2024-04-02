@@ -11,5 +11,5 @@
 ## Program Output
 ![alt test](https://github.com/Nikkkkkkko/LBYARCH-1-D-Stencil/blob/main/progOutput.png)
 ## Analysis of Result
-#Debug
+# Debug
 The performance of the kernels in debug mode showed that the C kernel took longer than the assembly kernel on all the sizes. We believe that this is because assembly cuts away the overhead that C uses for memory allocation and etc. 
