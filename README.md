@@ -1,9 +1,9 @@
 # LBYARCH-1-D-Stencil
-## Execution Time Comparison
+## Average Execution Time Comparison
 ### In Debug Mode
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
+| Vector Size (n)  | In C Kernel  | In ASM Kernel  |
+|------------------|--------------|----------------|
+|  |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
 ### In Release Mode
