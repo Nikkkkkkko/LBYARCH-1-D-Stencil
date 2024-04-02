@@ -11,5 +11,6 @@
 ## Program Output
 ![alt test](https://github.com/Nikkkkkkko/LBYARCH-1-D-Stencil/blob/main/progOutput.png)
 ## Analysis of Result
-### Debug
-The performance of the kernels in debug mode showed that the C kernel took longer than the assembly kernel on all the sizes. We believe that this is because assembly cuts away the overhead that C uses for memory allocation and etc. 
+Unfortunately, we were unable to fix the lingering issues on the release mode of the project that prevented us from running tests in time.
+
+In the meantime, for the Debug mode, as we expected, the average runtime of the x86-64 kernel proved that it was faster than it's C' counterpart. Interestingly, we had observed that this gap in speed grew wider with larger vectore size as shown in the table above. We believe that this is because assembly cuts away the overhead that C uses for memory allocation therefor essentially letting it perform tasks with fewer middlemen.
