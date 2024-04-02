@@ -1,6 +1,6 @@
 # LBYARCH-1-D-Stencil
-## Execution Time Comparison (C Version)
-## Execution Time Comparison (x86-64 Version)
-## Program Output (C Version)
-## Program Output (x86-64 Version)
+## Execution Time Comparison
+### In Debug Mode
+### In Release Mode
+## Program Output
 ## Analysis of Result
