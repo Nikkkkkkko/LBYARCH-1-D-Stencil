@@ -11,6 +11,6 @@
 ## Program Output
 ![alt test](https://github.com/Nikkkkkkko/LBYARCH-1-D-Stencil/blob/main/progOutput.png)
 ## Analysis of Result
-Unfortunately, we were unable to fix the lingering issues on the release mode of the project that prevented us from running tests in time.
+Unfortunately, we were unable to fix the lingering issues on the release mode of the project that prevented us from running tests in time. In addition 2^10 was used as a replacement test case for 2^30 as 2^24 was the highest our machines could run without crashing due to taking too long to finish.
 
-In the meantime, for the Debug mode, as we expected, the average runtime of the x86-64 kernel proved that it was faster than it's C' counterpart. Interestingly, we had observed that this gap in speed grew wider with larger vectore size as shown in the table above. We believe that this is because assembly cuts away the overhead that C uses for memory allocation therefor essentially letting it perform tasks with fewer middlemen.
+In the meantime, for the Debug mode, as we expected, the average runtime of the x86-64 kernel proved that it was faster than it's C' counterpart. Interestingly, we had observed that this gap in speed grew wider with larger vector size as shown in the table above. We believe that this is because assembly cuts away the overhead that C uses for memory allocation therefor essentially letting it perform tasks with fewer middlemen.
