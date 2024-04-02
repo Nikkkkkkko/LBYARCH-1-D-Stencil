@@ -1,3 +1,0 @@
-﻿  main.c
-main.obj : error LNK2001: unresolved external symbol asmhello
-D:\College\Term 2 2023-2024\LBYARCH\1DStencilGrp6\x64\Release\1DStencilGrp6.exe : fatal error LNK1120: 1 unresolved externals

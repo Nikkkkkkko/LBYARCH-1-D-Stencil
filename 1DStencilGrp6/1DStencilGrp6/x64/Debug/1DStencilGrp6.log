@@ -1,4 +1,0 @@
-﻿  main.c
-D:\College\Term 2 2023-2024\LBYARCH\1DStencilGrp6\main.c(37,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\College\Term 2 2023-2024\LBYARCH\1DStencilGrp6\main.c(42,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  1DStencilGrp6.vcxproj -> D:\College\Term 2 2023-2024\LBYARCH\1DStencilGrp6\x64\Debug\1DStencilGrp6.exe
