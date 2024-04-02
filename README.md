@@ -13,4 +13,5 @@
 |       2^24       |||
 |       2^30       |||
 ## Program Output
+![alt text](https://github.com/[Nikkkkkkko]/LBYARCH-1-D-Stencil/blob/main/progOutput.png?raw=true)
 ## Analysis of Result
